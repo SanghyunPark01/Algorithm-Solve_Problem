@@ -25,6 +25,7 @@
 |2193|이친수|S3|[Link](https://www.acmicpc.net/problem/2193)|다이나믹 프로그래밍|
 |2491|수열|S4|[Link](https://www.acmicpc.net/problem/2491)|구현, 다이나믹 프로그래밍|
 |2559|수열|S3|[Link](https://www.acmicpc.net/problem/2559)|누적 합, 두 포인터, 슬라이딩 윈도우|
+|10773|제로|S4|[Link](https://www.acmicpc.net/problem/10773)|구현, 자료 구조, 스택|
 
 * Bronze
 

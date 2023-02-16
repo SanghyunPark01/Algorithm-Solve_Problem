@@ -8,7 +8,7 @@
 
 |Problem|Name|Tear|Link|Algorithm classification|  
 |:--:|:--:|:--:|:--:|:--:|  
-|1214|자리수로 나누기|P5|[Link](https://www.acmicpc.net/problem/1214)|수학, 브루트포스 알고리즘, 정수론|
+|1214|쿨한 물건 구매|P5|[Link](https://www.acmicpc.net/problem/1214)|수학, 브루트포스 알고리즘, 정수론|
 
 * Gold  
 

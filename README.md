@@ -4,6 +4,12 @@
 * BackJoon Online Judge : [https://www.acmicpc.net/](https://www.acmicpc.net/)
 ## BaekJoon
 <!-- |||S3|[Link](https://www.acmicpc.net/problem/11659)|| -->
+* Platinum  
+
+|Problem|Name|Tear|Link|Algorithm classification|  
+|:--:|:--:|:--:|:--:|:--:|  
+|1214|자리수로 나누기|P5|[Link](https://www.acmicpc.net/problem/1214)|수학, 브루트포스 알고리즘, 정수론|
+
 * Gold  
 
 |Problem|Name|Tear|Link|Algorithm classification|  

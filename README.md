@@ -36,6 +36,7 @@
 |9012|괄호|S4|[Link](https://www.acmicpc.net/problem/9012)|자료 구조, 문자열, 스택|
 |1929|소수 구하기|S3|[Link](https://www.acmicpc.net/problem/1929)|수학, 정수론, 소수 판정, 에라토스테네스의 체|
 |1874|스택 수열|S2|[Link](https://www.acmicpc.net/problem/1874)|자료 구조, 스택|
+|1654|랜선 자르기|S2|[Link](https://www.acmicpc.net/problem/1654)|이분 탐색, 매개 변수 탐색|
 
 * Bronze
 

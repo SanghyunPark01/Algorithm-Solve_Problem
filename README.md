@@ -45,3 +45,4 @@
 |:--:|:--:|:--:|:--:|:--:|  
 |10989|수 정렬하기 3|B1|[Link](https://www.acmicpc.net/problem/10989)|정렬|
 |2748|피보나치 수 2|B1|[Link](https://www.acmicpc.net/problem/2748)|수학, 다이나믹 프로그래밍|
+|2609|최대공약수와 최소공배수|B1|[Link](https://www.acmicpc.net/problem/2609)|수학, 정수론, 유클리드 호제법|

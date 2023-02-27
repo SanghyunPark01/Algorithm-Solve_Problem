@@ -19,6 +19,7 @@
 |15486|퇴사 2|G5|[Link](https://www.acmicpc.net/problem/15486)|다이나믹 프로그래밍|
 |15686|치킨 배달|G5|[Link](https://www.acmicpc.net/problem/15686)|구현,브루트포스 알고리즘, 백트래킹|
 |16939|2x2x2 큐브|G2|[Link](https://www.acmicpc.net/problem/16939)|구현|
+|1715|카드 정렬하기|G4|[Link](https://www.acmicpc.net/problem/1715)|자료 구조, 그리디 알고리즘, 우선순위 큐|
 
 * Silver
 

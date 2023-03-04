@@ -44,6 +44,7 @@
 |17219|비밀번호 찾기|S4|[Link](https://www.acmicpc.net/problem/17219)|자료 구조, 해시를 사용한 집합과 맵|
 |1927|최소 힙|S2|[Link](https://www.acmicpc.net/problem/1927)|자료 구조, 우선순위 큐|
 |11723|집합|S5|[Link](https://www.acmicpc.net/problem/11723)|구현, 비트마스킹|
+|2606|바이러스|S3|[Link](https://www.acmicpc.net/problem/2606)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|
 
 * Bronze
 

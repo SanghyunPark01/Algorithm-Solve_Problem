@@ -46,6 +46,7 @@
 |11723|집합|S5|[Link](https://www.acmicpc.net/problem/11723)|구현, 비트마스킹|
 |2606|바이러스|S3|[Link](https://www.acmicpc.net/problem/2606)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|
 |11399|ATM|S4|[Link](https://www.acmicpc.net/problem/11399)|그리디 알고리즘, 정렬|
+|9095|1, 2, 3 더하기|S3|[Link](https://www.acmicpc.net/problem/9095)|다이나믹 프로그래밍|
 
 * Bronze
 

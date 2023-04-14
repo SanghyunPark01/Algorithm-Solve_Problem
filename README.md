@@ -47,6 +47,7 @@
 |2606|바이러스|S3|[Link](https://www.acmicpc.net/problem/2606)|그래프 이론, 그래프 탐색, 너비 우선 탐색, 깊이 우선 탐색|
 |11399|ATM|S4|[Link](https://www.acmicpc.net/problem/11399)|그리디 알고리즘, 정렬|
 |9095|1, 2, 3 더하기|S3|[Link](https://www.acmicpc.net/problem/9095)|다이나믹 프로그래밍|
+|1541|잃어버린 괄호|S2|[Link](https://www.acmicpc.net/problem/1541)|수학, 문자열, 그리디, 알고리즘파싱|
 
 * Bronze
 
